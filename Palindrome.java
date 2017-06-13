@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Palindrome{
+class palindrome{
 public static void main(String args[]){
 System.out.print("Enter Number: ");
 Scanner read = new Scanner(System.in);
